@@ -17,10 +17,13 @@
 725%/%7
 
 725%%7
-# D = d * q + r
-# r = D - d * q
-# q = D %/% d
-# x = D %% d 
+
+# algoritmo de Euclides
+
+# D = d * q + r (dividendo = divisor*cociente+ resto)
+# r = D - d * q (resto= dividendo- divsor * resto)
+# q = D %/% d   (cociente = dividendo%/%divisor)
+# x = D %% d  
 725 - 103*7
 
 pi
